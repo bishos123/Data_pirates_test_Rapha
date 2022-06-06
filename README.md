@@ -15,3 +15,4 @@ para inicia-lo, basta rodar em uma IDE, ate onde lembro nenhuma lib foi instalad
 
 OBS: O bot depois de mais validações e testes, passou a gerar um bug que não coletava o ultimo cep da pagina... estava perto de uma solução, mas fiquei sem tempo para aplica-la.
 
+OBS: acabei descobrindo um bug horrivel no lançamento do bot, e acabei de corrigir, irei fazer upload a versão corrigida
