@@ -2,6 +2,13 @@
 
 Olá.
 
+Seja bem vindo ao meu bot de coleta de localidade e faixa de CEP, utilizando inputs de UF's.
+
+Antes de explicar como rodar irei deixar os prerequisitos para fazer funciona-lo:
+
+**- Uma IDE (para rodar codigos python) ou terminal disponivel**
+**- Pandas lib instalado no computador**
+
 para inicia-lo, irá ser preciso utilizar uma IDE ou atraves de algum terminal.
 
 Com o script aberto dentro do terminal/IDE, basta ativa-lo para rodar ele. Apos rodar o bot irá fazer uma pergunta sobre a input desejada (no caso qual o estado que gostaria de especificar), neste momento voce deve colocar uma das UF's existentes atualmente no Brasil para que o bot funcione corretamente.
